@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'AADIL'
 global.premium = 'true'
 global.packname = 'ȺȺđɨł' 
-global.author = '@aadilsguru' 
+global.author = '@aadilsgur' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
@@ -63,12 +63,12 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
-global.xmoji = '🔥' 
+global.dmoji = '😎'
+global.done = '✔️'
+global.error = '❎' 
+global.xmoji = '♾️' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
